@@ -16,7 +16,7 @@ Click the link above to explore AV crash locations on an interactive map
 | File | Description |
 | --- | --- |
 | `CA_DMV_CollisionsDataset.csv` | CA DMV AV collision records enriched with location and census/demographic fields (weather, lighting, roadway conditions, fault, injuries, latitude/longitude, median income, population demographics, etc.). |
-| `CA_OLDDMV_Reportin.ipynb` | Analysis of the older CA DMV collision reporting data. |
+| `CA_OLSDMV_Reporting.ipynb` | Analysis of the older CA DMV collision reporting data. |
 | `Collisions Diagram.ipynb` | Notebook producing collision diagrams / visualizations. |
 | `Disengagements.ipynb` | Analysis of AV disengagement reports. |
 | `AV_Crash_Map.html` | Source for the interactive map — [view it live here](https://lindalim478.github.io/CA_DMV_CollisionsPaper/AV_Crash_Map.html). |
