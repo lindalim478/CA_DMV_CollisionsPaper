@@ -4,7 +4,7 @@ Machine-learning analysis of **California DMV autonomous-vehicle (AV) collision
 reports** — identifying the factors that contribute to crash severity, and
 mapping where different collision types damage the vehicle.
 
-*Companion code and analysis to the TRB paper: L. Lim, J. Chen, M. Espinoza,
+*TRB paper: L. Lim, J. Chen, M. Espinoza,
 S. Moura, "Investigating Factors Contributing to Autonomous Vehicle Crash
 Severity Using Machine Learning and Recursive Feature Elimination (RFE)"
 (UC Berkeley).*
