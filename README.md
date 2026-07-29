@@ -4,6 +4,13 @@ Preliminary analysis of California DMV autonomous vehicle (AV) collision and
 disengagement reports, combined with demographic (census) context, in support
 of dissertation research.
 
+## 🗺️ Interactive crash map
+
+**[▶ Open the interactive AV crash map](https://lindalim478.github.io/CA_DMV_CollisionsPaper/AV_Crash_Map.html)**
+
+Click the link above to explore AV crash locations on an interactive map
+(hosted via GitHub Pages).
+
 ## Contents
 
 | File | Description |
@@ -12,7 +19,7 @@ of dissertation research.
 | `CA_OLDDMV_Reportin.ipynb` | Analysis of the older CA DMV collision reporting data. |
 | `Collisions Diagram.ipynb` | Notebook producing collision diagrams / visualizations. |
 | `Disengagements.ipynb` | Analysis of AV disengagement reports. |
-| `AV_Crash_Map.html` | Interactive map of AV crash locations. |
+| `AV_Crash_Map.html` | Source for the interactive map — [view it live here](https://lindalim478.github.io/CA_DMV_CollisionsPaper/AV_Crash_Map.html). |
 | `NHTSA EMS Crashes.xlsx` | Supplementary NHTSA EMS crash data. |
 
 ## Getting started
@@ -26,8 +33,8 @@ pip install jupyter pandas numpy matplotlib folium openpyxl
 jupyter lab
 ```
 
-Open any of the `.ipynb` notebooks and run the cells. `AV_Crash_Map.html`
-can be opened directly in a browser.
+Open any of the `.ipynb` notebooks and run the cells. The crash map can be
+viewed live at the [interactive map link](https://lindalim478.github.io/CA_DMV_CollisionsPaper/AV_Crash_Map.html).
 
 ## Data notes
 
